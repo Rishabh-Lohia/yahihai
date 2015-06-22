@@ -1,3 +1,3 @@
 # yahihai
-yo
-Triton Training Assist, Web based application to help management scheule and keep up with trainings program and their trainees.
+
+Triton Training Assist, Web based application to help the management schedule and keep up with their training program and their trainees.
